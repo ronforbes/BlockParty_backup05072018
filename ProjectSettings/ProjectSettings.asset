@@ -462,8 +462,9 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 1
     UNet: 1
   cloudProjectId: 03142d6b-0670-4fd7-8ddf-da0924a9236e
-  projectName: BlockParty (1)
+  projectName: BlockParty
   organizationId: omega-entertainment
   cloudEnabled: 0
